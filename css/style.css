@@ -1,0 +1,317 @@
+*{
+box-sizing: border-box;
+}
+
+html{
+font-size: 62.5%;
+font-family: 'Montserrat', sans-serif;
+}
+
+header{
+border: 1px solid pink;
+height: 150px;
+}
+
+.logo-head{
+width: 100%;
+height: 75px;
+border-bottom: 1px solid grey;
+background: black;
+text-align: center;
+}
+
+.nav-head{
+width: 100%;
+height: 75px;
+border: 1px solid;
+background: black;
+text-align: center;
+}
+
+.nav-head li{
+display: inline-block;
+font-size: 2.2rem;
+padding-left: 52px;
+}
+
+.nav-head a{
+color: white;
+text-decoration: none;
+}
+
+.large{
+width: 100%;
+height: 300px;
+float: left;
+padding: 0px 110px;
+}
+
+h1{
+font-size: 7rem;
+font-weight: bolder;
+text-align: center;
+text-decoration: underline;
+margin-top: 19px;
+padding: 0px 174px;
+}
+
+.main-img{
+width: 100%;
+float: left;
+}
+
+.main-img img{
+width: 100%;
+}
+
+
+section>h3{
+text-align: center;
+font-size: 1.9rem;
+}
+
+.blue{
+color: blue;
+}
+
+
+.art-fill{
+  width: 100%;
+  height: 450px;
+  float: left;
+}
+
+.art{
+width: 65%;
+height: 450px;
+float: left;
+}
+
+.art2{
+width: 65%;
+float: left;
+}
+
+.art .chance, .chance2{
+width: 25%;
+float: left;
+}
+
+.chance2{
+width: 24%;
+height: 220px;
+}
+
+.chance{
+height: 180px;
+}
+
+.chance p, .chance2 p{
+  width: 60%;
+}
+
+.chance,.chance2{
+font-size: 1.2rem;
+}
+
+.art-fill2{
+width: 100%;
+float: left;
+}
+
+.aside-arts{
+width: 35%;
+float: right;
+padding: 0px 30px;
+font-size: 1.4rem;
+font-weight: 700;
+}
+
+.shape{
+width: 100%;
+float: left;
+margin-bottom: 5px;
+padding: 11px 0px 11px 0px;
+}
+
+.shape img{
+float: left;
+}
+
+.last-text{
+float: left;
+margin-top: 32px;
+}
+
+.bottom-left-content{
+width: 65%;
+height: 381px;
+float: left;
+margin-top: 86px;
+}
+
+.long-bottom-logo{
+width: 100%;
+height: 50px;
+text-align: center;
+}
+
+.long-bottom-logo img{
+width: 9%;
+}
+
+.split{
+width: 100%;
+height: 330px;
+float: left;
+padding: 0px 56px;
+}
+
+.shared{
+float: left;
+width: 49%;
+background: #e6fcff;
+text-align: center;
+font-size: 1.4rem;
+}
+
+.wellness img{
+width: 73%;
+}
+
+.parenting{
+margin-left: 16px;
+}
+
+.parenting img{
+width: 73%;
+}
+
+footer{
+width: 100%;
+float: left;
+border:1px solid black;
+height: 70px;
+}
+
+/* 
+.art{
+background: green;
+width: 70%;
+float: left;
+}
+
+.chance{
+width: 25%;
+float: left;
+}
+
+.maincontentpage2{
+width: 70%;
+background: purple;
+}
+
+.art2{
+background: blue;
+width: 100%;
+float: left;
+}
+ */
+
+
+/* *{
+  box-sizing: border-box;
+
+}
+body{
+background-color: white;
+}
+
+h2{
+color: white;
+text-align: center;
+font-size: 18px;
+}
+
+h2::first-letter {
+color:teal;
+}
+
+
+.test::after {
+    color: teal;
+    content: '|';
+    position: absolute;
+    transform: translate(-100%, 0);
+  }
+
+h2::last-letter {
+    color:teal;
+}
+
+header{
+border: 3px solid black;
+height: 100px;
+width: 100%;
+background-color: black;
+clear: both;
+}
+
+ul li{
+  display: inline;
+  text-align: center;
+  padding-left: 50px;
+  margin-left: 100px;
+  
+}
+
+
+nav ul a{
+text-decoration: none;
+color: white;
+justify-content: center;
+display: inline-block;
+text-align: center;
+}
+
+
+.maintext{
+width: 100%;
+height: 180px;
+}
+
+h1{
+color: black;
+text-decoration: underline;
+font-size: 46px;
+text-align: center;
+font-weight: 900;
+padding-left: 430px;
+padding-right: 430px;
+}
+
+.mainsect{
+width: 100%;
+height:200px;
+border: 1px solid blue;
+}
+
+.maincont{
+max-height:100%;
+
+}
+
+h3{
+font-size: 24px;
+text-align: center;
+}
+
+
+
+
+{
+
+
+
+  
+} */
